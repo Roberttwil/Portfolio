@@ -4,23 +4,22 @@ Welcome to my portfolio repository! This serves as a hub for my projects in **Da
 
 ## 🔗 Portfolio Categories  
 
-### 1️⃣ [Data Analysis Portfolio](https://github.com/yourusername/data-analysis-portfolio)  
-   - SQL-based data analysis projects  
-   - Business intelligence reports  
-   - Data visualization dashboards  
+### 📊 Data Analysis Projects  
+- 📌 [Netflix Userbase Analysis](https://github.com/Roberttwil/Netflix-Userbase)  
+ 
 
-### 2️⃣ [Machine Learning Engineer Portfolio](https://github.com/yourusername/ml-engineer-portfolio)  
-   - Machine learning model development  
-   - Deep learning and AI projects  
-   - MLOps and model deployment  
+### 🤖 Machine Learning Projects  
+- 📌 [Covid-Pneumonia-Detectioin](https://github.com/Roberttwil/covid-pneumonia-detector.git)  
+- 📌 [DSM-5 Detection](https://github.com/Roberttwil/MentalHealthDiagnosis.git)  
+  
 
 ## 🚀 About Me  
 I’m an undergraduate **Informatics Engineering** student (6th semester) at **Padjadjaran University**, passionate about turning data into insights and building machine learning solutions to solve real-world problems.  
 
 ### 🔥 My Expertise:  
 ✔ **SQL** for data extraction and analysis  
-✔ **Python** for data science and machine learning  
-✔ **Data Visualization** using Power BI, Tableau, and Matplotlib  
-✔ **Machine Learning** model development and deployment  
+✔ **Python** pandas and numpy for data science   
+✔ **Data Visualization** using Power BI, Seaborn, and Matplotlib  
+✔ **Machine Learning** Tensorflow, PyTorch
 
-Feel free to explore my projects and connect with me on **[LinkedIn](https://linkedin.com/in/yourusername)!** 🚀  
+Feel free to explore my projects and connect with me on **[LinkedIn](www.linkedin.com/in/robertwilliamh)!** 🚀  
