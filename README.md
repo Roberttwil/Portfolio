@@ -23,4 +23,4 @@ I’m an undergraduate **Informatics Engineering** student (6th semester) at **U
 ✔ **Data Visualization** using Power BI, Seaborn, and Matplotlib  
 ✔ **Machine Learning** Tensorflow, PyTorch
 
-Feel free to explore my projects and connect with me on **[LinkedIn](www.linkedin.com/in/robertwilliamh)!** 🚀  
+Feel free to explore my projects and connect with me on **[LinkedIn](www.linkedin.com/in/robertwilliamht)!** 🚀  
