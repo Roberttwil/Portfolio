@@ -15,7 +15,7 @@ Welcome to my portfolio repository! This serves as a hub for my projects in **Da
   
 
 ## 🚀 About Me  
-I’m an undergraduate **Informatics Engineering** student (6th semester) at **Padjadjaran University**, passionate about turning data into insights and building machine learning solutions to solve real-world problems.  
+I’m an undergraduate **Informatics Engineering** student (6th semester) at **Universotas Padjadjaran**, passionate about turning data into insights and building machine learning solutions to solve real-world problems.  
 
 ### 🔥 My Expertise:  
 ✔ **SQL** for data extraction and analysis  
